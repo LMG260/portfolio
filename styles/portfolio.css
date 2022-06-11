@@ -1,0 +1,19 @@
+body {
+  background: lightblue;
+}
+
+h1 {
+  color: black;
+  font-family: 'Bodoni Moda', serif;
+  font-weight: bold;
+}
+
+h2 {
+  color: black;
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+
+/*
+font-family: 'Bodoni Moda', serif;
+font-family: 'Playfair Display', serif;
